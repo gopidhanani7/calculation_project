@@ -2,12 +2,12 @@
 
 This repository contains Java Calculation program
 
-##Topics
+## Topics
 
 -Addition
 -Substration
 -Multiplication
 -Division
 
-##Autor
+## Autor
 **Gopi Patel**
