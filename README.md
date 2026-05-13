@@ -11,5 +11,8 @@ This repository contains Java Calculation program
 
 -Division
 
+-Modulus
+
+
 ## Autor
 **Gopi Patel**
